@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ziying_Assignment1_1551960</string>
+    <string name="bottom_title_home"><font size="14">Home</font></string>
+    <string name="bottom_title_favorite"><font size="14">Favorite</font></string>
+    <string name="bottom_title_bookings"><font size="14">Bookings</font></string>
+    <string name="bottom_title_my"><font size="14">My</font></string>
+</resources>

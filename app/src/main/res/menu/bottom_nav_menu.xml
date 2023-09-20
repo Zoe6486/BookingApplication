@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_home"
+        android:icon="@drawable/ic_bottom_home_24"
+        android:title="@string/bottom_title_home" />
+    <item
+        android:id="@+id/bottom_favorite"
+        android:icon="@drawable/ic_bottom_favorite_24"
+        android:title="@string/bottom_title_favorite" />
+    <item
+        android:id="@+id/bottom_bookings"
+        android:icon="@drawable/ic_bottom_bookings_24"
+        android:title="@string/bottom_title_bookings" />
+    <item
+        android:id="@+id/bottom_my"
+        android:icon="@drawable/ic_bottom_person_24"
+        android:title="@string/bottom_title_my" />
+
+</menu>
